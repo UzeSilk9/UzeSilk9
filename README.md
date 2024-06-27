@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulfikar,S.Kom</h1>
-<img align="center" src="https://camo.githubusercontent.com/55c6447056dee08842ca232bf5e61fd03a3fad92467e82327bf70069a7c58aaa/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966">
+<img align="center" alt="web-programmer" widht="100%" src="https://camo.githubusercontent.com/55c6447056dee08842ca232bf5e61fd03a3fad92467e82327bf70069a7c58aaa/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966">
 <h3 align="center">I am a 23-year-old web programmer from Padang, Indonesia. I am a graduate of the Indonesian Putra University, YPTK Padang, with a degree in information systems. With a solid educational background and experience in web programming, I have a strong ambition to become an excellent web programmer. I am determined to continue learning and growing in this field, mastering the latest technologies, and making significant contributions to every project I work on.</h3>
 
 <h3 align="left">Connect with me:</h3>
